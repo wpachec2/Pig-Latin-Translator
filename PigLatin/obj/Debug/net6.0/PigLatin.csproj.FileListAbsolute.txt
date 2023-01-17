@@ -1,0 +1,15 @@
+/Users/wilchec/Projects/PigLatin/PigLatin/bin/Debug/net6.0/PigLatin
+/Users/wilchec/Projects/PigLatin/PigLatin/bin/Debug/net6.0/PigLatin.deps.json
+/Users/wilchec/Projects/PigLatin/PigLatin/bin/Debug/net6.0/PigLatin.runtimeconfig.json
+/Users/wilchec/Projects/PigLatin/PigLatin/bin/Debug/net6.0/PigLatin.dll
+/Users/wilchec/Projects/PigLatin/PigLatin/bin/Debug/net6.0/PigLatin.pdb
+/Users/wilchec/Projects/PigLatin/PigLatin/obj/Debug/net6.0/PigLatin.csproj.AssemblyReference.cache
+/Users/wilchec/Projects/PigLatin/PigLatin/obj/Debug/net6.0/PigLatin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wilchec/Projects/PigLatin/PigLatin/obj/Debug/net6.0/PigLatin.AssemblyInfoInputs.cache
+/Users/wilchec/Projects/PigLatin/PigLatin/obj/Debug/net6.0/PigLatin.AssemblyInfo.cs
+/Users/wilchec/Projects/PigLatin/PigLatin/obj/Debug/net6.0/PigLatin.csproj.CoreCompileInputs.cache
+/Users/wilchec/Projects/PigLatin/PigLatin/obj/Debug/net6.0/PigLatin.dll
+/Users/wilchec/Projects/PigLatin/PigLatin/obj/Debug/net6.0/refint/PigLatin.dll
+/Users/wilchec/Projects/PigLatin/PigLatin/obj/Debug/net6.0/PigLatin.pdb
+/Users/wilchec/Projects/PigLatin/PigLatin/obj/Debug/net6.0/PigLatin.genruntimeconfig.cache
+/Users/wilchec/Projects/PigLatin/PigLatin/obj/Debug/net6.0/ref/PigLatin.dll
